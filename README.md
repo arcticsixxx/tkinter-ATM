@@ -5,6 +5,8 @@ The task of this case was to create an ATM emulator. An additional task was to c
 
 ![Screenshot](screenshots/screenshot.png)
 
+
 ![Screenshot](screenshots/screenshot1.png)
+
 
 ![Screenshot](screenshots/screenshot2.png)
